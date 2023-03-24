@@ -1,0 +1,4 @@
+name: SidebarExample
+version: '${version}'
+main: org.braekpo1nt.sidebarexample.SidebarExample
+api-version: 1.19
